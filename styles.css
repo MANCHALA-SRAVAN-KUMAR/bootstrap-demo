@@ -1,0 +1,29 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+.card {
+  border: none;
+  border-radius: 1rem;
+}
+
+.card-title {
+  color: #0d6efd;
+}
+
+footer {
+  letter-spacing: 0.05em;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  letter-spacing: 0.03em;
+}
+
+section {
+  scroll-margin-top: 80px;
+}
