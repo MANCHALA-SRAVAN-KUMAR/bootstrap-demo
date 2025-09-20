@@ -31,8 +31,8 @@ This project demonstrates the use of Bootstrap 5 to build clean, modern, and res
 - Total: ~3 hours
 
 ## Deployment
-- **GitHub Repo:** _[Add your repo URL here]_  
-- **Live Preview:** _[Add your live site URL here]_
+- **GitHub Repo:** https://github.com/MANCHALA-SRAVAN-KUMAR/bootstrap-demo  
+- **Live Preview:** https://manchala-sravan-kumar.github.io/bootstrap-demo/
 
 ## Transparency
 - This project was built with the help of Bootstrap documentation, official examples, and GitHub Copilot (AI assistance). All sources and tools are acknowledged.
